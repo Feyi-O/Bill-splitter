@@ -18,6 +18,6 @@ Currently, the variables are hardcoded directly into the script for a quick calc
 2. Run the file in your terminal to execute the calculation and view the printed breakdown.
 3. Modify the price variables, the 25% tip calculation, or the `num_of_friends` variable directly in the source code to fit your specific outing[cite: 2].
 
-## 👨‍💻 Author
+##  Author
 
 * **GitHub:** [@Feyi-O](https://github.com/Feyi-O)
